@@ -1,0 +1,330 @@
+---------------------------------------------------------------
+UI Styles
+version 4.0, 29/8/2016
+Copyright © 2015, Messy Entertainment
+---------------------------------------------------------------
+
+
+Contact Developer: 	
+assets@messyentertainment.com
+
+
+Links
+---------------------------------------------------------------
+
+// Online Documentation and videos (Recommended)
+http://messyentertainment.com/developer_tools/ui_styles_documentation/
+	
+// Subscribe To The YouTube Channel to keep up to date with changes
+https://www.youtube.com/channel/UCYLB1lkM--nLrGan2VQaHDQ
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+GETTING STARTED
+-------------------------------------------------------------------------------------
+
+------------------------------
+// Open Window 
+------------------------------
+
+	To open the UI Styles window goto, Window/UI Styles/Window/Styles Window. 
+
+------------------------------
+// Create Settings 
+------------------------------
+
+	Before being able to create styles you need to create a data file, 
+	the data file is a ScriptableObject that will be saved in you project, 
+	styles will be saved within the ScriptableObject. 
+	To create the ScriptableObject click the menu button in the top right corner of the styles window, 
+	then choose create.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+PREFERENCES
+-------------------------------------------------------------------------------------
+
+------------------------------
+// Preferences Window
+------------------------------
+	
+	To open the preferences window goto click the “Menu” button, top right of the window and choose “Preferences”.
+
+------------------------------
+// Find Scenes
+------------------------------
+	
+	The find scenes option is used to define what scenes are found when updating all styles in all scenes.
+ 
+	// Scenes In Build 
+	Finds scenes in the builds settings.
+	
+	//Project
+	Finds all scenes in the whole project.
+ 
+	// Folder
+	Finds all scenes in a defined folder.
+
+------------------------------
+// Find By Name Warnings
+------------------------------
+
+	Find by name warnings show when multiple styles have the same find by name.
+ 
+	// Disable find by name warnings
+	Having this enabled will disable all find by name warnings.
+ 
+	// Allow Categories To Contain The Same Find By Name
+	Having this enabled will allow separate categories to contain the same find by names, 
+	you will see a warning when styles within the same category have multiple find be by name.
+
+------------------------------
+// Dropdown’s
+------------------------------
+
+	Close dropdown’s when others open.
+ 
+	// One Style Open At Once
+	Having this enabled will only allow one styles to be open at once.
+ 
+	// One Category Open At Once
+	Having this enabled will only allow one component within a style to be open at once.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+STYLES
+-------------------------------------------------------------------------------------
+
+------------------------------
+// Create Style
+------------------------------
+
+	To create a style click the top of the window where you see “Add Style”, 
+	from the drop down choose a pre-made style or an empty style, 
+	pre-made styles are just empty styles with the components already added to them, 
+	the pre-made styles will also have the component paths added to them.
+	 
+	When creating a new style you will want to rename it straightaway, 
+	
+	note 
+	the first time you name a style the find by name will copy the styles name, 
+	so the find by name will be the same as the styles name, 
+	you can change the find by name at any time if you like.
+
+------------------------------
+// Delete Style 
+------------------------------
+
+	To delete a style right click the styles dropdown and choose delete styles. 
+
+------------------------------
+// Find By Name 
+------------------------------
+
+	To assign an object to a style the objects name needs to contain the styles find by name wrapped in parenthesis, 
+	for example if your styles find by name is “Title” (without quotation marks) 
+	then the objects name needs to contain “(Title)” (without quotation marks).
+	
+	One of the best and easiest ways to add the find by name to an object or many objects at once 
+	is to drag the objects into the find by name field, 
+	this will add the find by name to the objects name for you.
+	
+	Another way is to right click the fine by name and choose copy, 
+	this will copy the find by name with the parenthesis already added, 
+	you can then paste that into the objects name, 
+	
+	alternatively you can just write the find by name with parenthesis in the objects name.
+
+------------------------------
+// Apply Style 
+------------------------------
+
+	First make sure the objects name contains the styles find by name.
+	
+	The apply option can be found by right clicking the styles drop down and choosing “Apply” 
+	or in 4.1 a button was added to the end of the styles dropdown.
+	
+	All Resources
+	All Resources will find all styles in the scene and all objects in the project folder, meaning all prefabs as well.
+	
+	Active In Scene
+	Active In Scene will only find the objects that are enabled in the scene, it will not find prefabs in the project
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+COMPONENTS
+-------------------------------------------------------------------------------------
+
+------------------------------
+// Add Components 
+------------------------------
+
+	Every component starts off empty, you then add components to make the style, 
+	for example lets imagine we need a style for an input field, 
+	we would create a empty styles then add 4 components, 
+	first the input field second the image then the text and placeholder (in any order).
+	
+	Note:
+	An easier way to create an input field style would be to create a pre-made input field 
+	rather than creating an empty styles and adding the components one by one, 
+	also if you create a pre-made styles the paths are done for you automatically.
+
+------------------------------
+// Component Path
+------------------------------
+
+	Every component has a “Component Path” field, this is the path from the object we find with the find by name, 
+	so lets take an input field style, the inputField component and the image component would have an empty path 
+	because the components are both on the object we find with the find by name 
+	but the text and placeholder are children of that object so the text comports path would be “Text” (without quotation marks) 
+	and the placeholders path would be “Placeholder” (without quotation marks).
+	 
+	The best way to add or change the path is to drag the object into the path field.
+
+------------------------------
+// Component Property Field
+------------------------------
+
+	Every property field within a component will have a toggle box to the left of it, 
+	if the toggle is enabled, the property will be updated when applying the style, 
+	if the toggle is disabled, the property will not be changed when applying the style.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------
+CATEGORIES
+-------------------------------------------------------------------------------------
+
+------------------------------
+// Move Style To New Category
+------------------------------
+
+	To move a style to a new category, right click the styles dropdown, 
+	choose “Move to Category”, from their choose a new category.
+
+------------------------------
+// Rename A category
+------------------------------
+
+	To rename a category, right click the categories dropdown and choose “Rename”, enter the new name and click “Done”.
+
+------------------------------
+// Delete A Category
+------------------------------
+
+	To delete a category, right click the categories dropdown and choose “Delete”.
+	Note Deleting a category will also delete all styles within the category.
+
+------------------------------
+// Duplicate A Category
+------------------------------
+
+	To duplicate a category, right click the categories dropdown and choose “Duplicate”.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

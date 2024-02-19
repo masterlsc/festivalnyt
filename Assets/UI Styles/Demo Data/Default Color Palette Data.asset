@@ -1,0 +1,2039 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c40c8836296fb4654acdb4497dc03901, type: 3}
+  m_Name: Default Color Palette Data
+  m_EditorClassIdentifier: 
+  currentCategory: Google Colors
+  categories:
+  - Google Colors
+  palettes:
+  - open: 0
+    id: 1
+    colors:
+    - id: 1
+      guid: 563feb37-680c-4408-877a-b8d9e48feb9f
+      name: 50
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.9215687
+        b: 0.9333334
+        a: 1
+    - id: 2
+      guid: b16bd116-7a46-463a-9dec-14c86ae5714d
+      name: 100
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.80392164
+        b: 0.8235295
+        a: 1
+    - id: 3
+      guid: c62ad429-34b5-4124-978a-1540fbae9a04
+      name: 200
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.9294118
+        g: 0.6039216
+        b: 0.60784316
+        a: 1
+    - id: 4
+      guid: 7b8927e2-5a26-42f2-8302-6aed3eaedaf3
+      name: 300
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.89019614
+        g: 0.454902
+        b: 0.45882356
+        a: 1
+    - id: 5
+      guid: 3762baed-a318-4874-a20f-4a5a88b026fa
+      name: 400
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.9294118
+        g: 0.32941177
+        b: 0.32941177
+        a: 1
+    - id: 6
+      guid: 25bb82ac-1490-44bf-be82-f4f6b71d5215
+      name: 500
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.94509804
+        g: 0.27058825
+        b: 0.23921569
+        a: 1
+    - id: 7
+      guid: 62bc6b4e-6cde-4ddc-93be-0e2f48c86bd1
+      name: 600
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.89019614
+        g: 0.23137257
+        b: 0.23137257
+        a: 1
+    - id: 8
+      guid: 8fa35383-4448-46aa-b93d-2231981fdabf
+      name: 700
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.8196079
+        g: 0.19215688
+        b: 0.20784315
+        a: 1
+    - id: 9
+      guid: caea0af0-61a7-4423-9254-e336b914ca6e
+      name: 800
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.7686275
+        g: 0.16470589
+        b: 0.18039216
+        a: 1
+    - id: 10
+      guid: 90e283f5-5e11-4d7f-9cd4-cf300b53e507
+      name: 900
+      paletteName: Red
+      category: Google Colors
+      color:
+        r: 0.70980394
+        g: 0.121568635
+        b: 0.13725491
+        a: 1
+    name_: Red
+    category_: Google Colors
+  - open: 0
+    id: 2
+    colors:
+    - id: 11
+      guid: 9ec668e2-1300-496c-8b1d-1f6b6caff7a6
+      name: 50
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.9843138
+        g: 0.8941177
+        b: 0.92549026
+        a: 1
+    - id: 12
+      guid: f4b1825d-8bf8-4267-a783-176aa084d872
+      name: 100
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.9686275
+        g: 0.7372549
+        b: 0.81568635
+        a: 1
+    - id: 13
+      guid: b50e2243-0d39-471c-b513-151d21946a91
+      name: 200
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.9490197
+        g: 0.5647059
+        b: 0.69411767
+        a: 1
+    - id: 14
+      guid: 50c69685-a7ed-4c01-a61f-f7dfc6ca11e6
+      name: 300
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.9333334
+        g: 0.3921569
+        b: 0.57254905
+        a: 1
+    - id: 15
+      guid: 54bee8b7-ec05-489f-bb84-aa1a1c0abc5b
+      name: 400
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.9176471
+        g: 0.2627451
+        b: 0.48235297
+        a: 1
+    - id: 16
+      guid: 10c3fa6a-f7bd-4925-b73e-e04a820f694e
+      name: 500
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.90196085
+        g: 0.14509805
+        b: 0.39607847
+        a: 1
+    - id: 17
+      guid: 4fd8740d-eb8d-406c-a616-199cf4a435c3
+      name: 600
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.83921576
+        g: 0.12941177
+        b: 0.3803922
+        a: 1
+    - id: 18
+      guid: 2c91e5a6-2ff5-4699-a349-3954e5a1a79a
+      name: 700
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.75294125
+        g: 0.11764707
+        b: 0.36078432
+        a: 1
+    - id: 19
+      guid: 9d0e9532-51ad-4e12-8d0d-71864a32e6af
+      name: 800
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.67058825
+        g: 0.10196079
+        b: 0.34509805
+        a: 1
+    - id: 20
+      guid: 8e985cb3-348e-4524-aac7-2f0bd4306af5
+      name: 900
+      paletteName: Pink
+      category: Google Colors
+      color:
+        r: 0.5254902
+        g: 0.07450981
+        b: 0.30980393
+        a: 1
+    name_: Pink
+    category_: Google Colors
+  - open: 0
+    id: 3
+    colors:
+    - id: 21
+      guid: f686b760-44ca-4680-b917-d43a54498862
+      name: 50
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.95294124
+        g: 0.8980393
+        b: 0.9607844
+        a: 1
+    - id: 22
+      guid: 3340499e-4535-4797-899a-91c9f8403a35
+      name: 100
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.87843144
+        g: 0.7490196
+        b: 0.90196085
+        a: 1
+    - id: 23
+      guid: 200e9f71-8e4e-43ff-9dc0-242e1bb58ed1
+      name: 200
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.80392164
+        g: 0.58431375
+        b: 0.83921576
+        a: 1
+    - id: 24
+      guid: e1428bc7-d328-429e-82de-9cfa73051313
+      name: 300
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.7254902
+        g: 0.41960788
+        b: 0.77647066
+        a: 1
+    - id: 25
+      guid: 1ebcb331-63df-462e-8fe5-49ec0a6289de
+      name: 400
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.6666667
+        g: 0.29803923
+        b: 0.7294118
+        a: 1
+    - id: 26
+      guid: 92cacbc0-b334-4040-9c18-c50950bc7a6e
+      name: 500
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.60784316
+        g: 0.18431373
+        b: 0.68235296
+        a: 1
+    - id: 27
+      guid: 1da40c6a-c87c-4d2a-92e9-fbc2797aaef8
+      name: 600
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.5529412
+        g: 0.17254902
+        b: 0.65882355
+        a: 1
+    - id: 28
+      guid: faca6815-af32-4922-adc2-ed12ce8d63d0
+      name: 700
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.4784314
+        g: 0.15294118
+        b: 0.627451
+        a: 1
+    - id: 29
+      guid: db99808e-595b-4f40-9048-b4a49dd1743c
+      name: 800
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.41176474
+        g: 0.13725491
+        b: 0.59607846
+        a: 1
+    - id: 30
+      guid: f19e790e-ee2d-4ada-bf5d-00bb72de709f
+      name: 900
+      paletteName: Purple
+      category: Google Colors
+      color:
+        r: 0.2901961
+        g: 0.10980393
+        b: 0.5411765
+        a: 1
+    name_: Purple
+    category_: Google Colors
+  - open: 0
+    id: 4
+    colors:
+    - id: 31
+      guid: a3b83dd1-003a-403a-9140-41f5d2b2a501
+      name: 50
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.9294118
+        g: 0.9058824
+        b: 0.96470594
+        a: 1
+    - id: 32
+      guid: f0fdeb5e-0ec7-4d04-a63b-2158a11d1710
+      name: 100
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.8196079
+        g: 0.7725491
+        b: 0.909804
+        a: 1
+    - id: 33
+      guid: 9e9ef2fb-3049-42e3-b0ef-5e226c632c11
+      name: 200
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.7019608
+        g: 0.61960787
+        b: 0.85098046
+        a: 1
+    - id: 34
+      guid: c2faaae7-290c-44ed-8969-17f86e062908
+      name: 300
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.58431375
+        g: 0.4666667
+        b: 0.7960785
+        a: 1
+    - id: 35
+      guid: 142e4ae5-2a3d-43cf-8b52-0ceb00eae4e9
+      name: 400
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.49411768
+        g: 0.35686275
+        b: 0.7490196
+        a: 1
+    - id: 36
+      guid: 48d13fa4-7603-492e-ac92-9df6d43d4021
+      name: 500
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.4039216
+        g: 0.24705884
+        b: 0.7058824
+        a: 1
+    - id: 37
+      guid: 678182b3-74be-4ead-8d2f-0eebc8a8201b
+      name: 600
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.36862746
+        g: 0.227451
+        b: 0.68235296
+        a: 1
+    - id: 38
+      guid: d6cbdd2e-f3d3-452c-80a6-515f0e069daf
+      name: 700
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.31764707
+        g: 0.20000002
+        b: 0.64705884
+        a: 1
+    - id: 39
+      guid: e6280440-8e3c-4c93-9e21-00d21da41a26
+      name: 800
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.27058825
+        g: 0.1764706
+        b: 0.6156863
+        a: 1
+    - id: 40
+      guid: 2c02fda4-5d7a-459d-82f5-667d157d104d
+      name: 900
+      paletteName: Deep Purple
+      category: Google Colors
+      color:
+        r: 0.19215688
+        g: 0.13333334
+        b: 0.5647059
+        a: 1
+    name_: Deep Purple
+    category_: Google Colors
+  - open: 0
+    id: 5
+    colors:
+    - id: 41
+      guid: 2590af92-8b68-4ae8-ac9b-5d2c6473ce3c
+      name: 50
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.909804
+        g: 0.9176471
+        b: 0.96470594
+        a: 1
+    - id: 42
+      guid: e02963dd-56b4-4175-a939-cb31cadc3e1b
+      name: 100
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.7725491
+        g: 0.7960785
+        b: 0.909804
+        a: 1
+    - id: 43
+      guid: bb5f2616-56f8-4421-a27b-0bf5abe7757c
+      name: 200
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.62352943
+        g: 0.6627451
+        b: 0.8470589
+        a: 1
+    - id: 44
+      guid: d0be1594-f54d-4267-b8f1-a56bc489a9be
+      name: 300
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.4784314
+        g: 0.53333336
+        b: 0.78823537
+        a: 1
+    - id: 45
+      guid: 0cc79edb-f5a2-439e-ac3a-660ce6860d24
+      name: 400
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.3647059
+        g: 0.427451
+        b: 0.74509805
+        a: 1
+    - id: 46
+      guid: 1d533910-6c28-4d33-8c26-c5817a32da10
+      name: 500
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.2509804
+        g: 0.32941177
+        b: 0.69803923
+        a: 1
+    - id: 47
+      guid: 01fc27c3-a94f-4d0c-9559-67d6fa77842f
+      name: 600
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.227451
+        g: 0.29803923
+        b: 0.65882355
+        a: 1
+    - id: 48
+      guid: db641885-1b6a-4b09-8535-8d7c6e05b059
+      name: 700
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.19215688
+        g: 0.25882354
+        b: 0.6156863
+        a: 1
+    - id: 49
+      guid: 86273e6f-0227-408d-8fe0-6eb3058ae9b1
+      name: 800
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.16078432
+        g: 0.21960786
+        b: 0.5686275
+        a: 1
+    - id: 50
+      guid: f687e645-04cb-42e3-92da-2e15e6de1dca
+      name: 900
+      paletteName: Indigo
+      category: Google Colors
+      color:
+        r: 0.10588236
+        g: 0.15294118
+        b: 0.48627454
+        a: 1
+    name_: Indigo
+    category_: Google Colors
+  - open: 0
+    id: 6
+    colors:
+    - id: 51
+      guid: 3eb3b329-017f-41b4-98e1-f47c6c6835b6
+      name: 50
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.89019614
+        g: 0.9490197
+        b: 0.98823535
+        a: 1
+    - id: 52
+      guid: cb1fc982-61e5-4f9c-a3bf-2a4ceac16326
+      name: 100
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.7372549
+        g: 0.8705883
+        b: 0.9803922
+        a: 1
+    - id: 53
+      guid: cf2625d5-72ea-4fa4-88aa-0846d1a68dbd
+      name: 200
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.57254905
+        g: 0.7960785
+        b: 0.9686275
+        a: 1
+    - id: 54
+      guid: 045ea50d-5d85-4a44-a2b6-6176b2ff55f9
+      name: 300
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.40784317
+        g: 0.7137255
+        b: 0.95294124
+        a: 1
+    - id: 55
+      guid: fbb3f4b6-f884-4805-946d-cb5b330eea37
+      name: 400
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.28235295
+        g: 0.654902
+        b: 0.9490197
+        a: 1
+    - id: 56
+      guid: 889ee0ab-24e7-4023-8714-94440d51431a
+      name: 500
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.16862746
+        g: 0.59607846
+        b: 0.9411765
+        a: 1
+    - id: 57
+      guid: 3bf12f58-8837-490d-a4de-90c8711519a9
+      name: 600
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.15686275
+        g: 0.5411765
+        b: 0.8862746
+        a: 1
+    - id: 58
+      guid: e442f9dc-823c-40a0-b9f8-6bfee9315c84
+      name: 700
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.13333334
+        g: 0.47058827
+        b: 0.8117648
+        a: 1
+    - id: 59
+      guid: 79a40c35-3bd1-4a14-936c-1156d97e68e5
+      name: 800
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.1137255
+        g: 0.4039216
+        b: 0.7411765
+        a: 1
+    - id: 60
+      guid: b78aa3dd-d529-40f7-83f8-6f1d8bd660e6
+      name: 900
+      paletteName: Blue
+      category: Google Colors
+      color:
+        r: 0.07450981
+        g: 0.2901961
+        b: 0.62352943
+        a: 1
+    name_: Blue
+    category_: Google Colors
+  - open: 0
+    id: 7
+    colors:
+    - id: 61
+      guid: b3353d92-c362-487a-8c32-7c52d53af027
+      name: 50
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.8862746
+        g: 0.9607844
+        b: 0.9921569
+        a: 1
+    - id: 62
+      guid: 2c88213e-9a6d-4c40-84ce-e283704f55df
+      name: 100
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.70980394
+        g: 0.8980393
+        b: 0.9843138
+        a: 1
+    - id: 63
+      guid: 6b2adc00-b7a9-48d0-8afb-fcda31491524
+      name: 200
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.5176471
+        g: 0.8313726
+        b: 0.9725491
+        a: 1
+    - id: 64
+      guid: 7e96fffe-e48b-4f17-b5b9-0977d47d6a93
+      name: 300
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.33333334
+        g: 0.7686275
+        b: 0.9607844
+        a: 1
+    - id: 65
+      guid: 762beb21-0091-48c0-bb4e-3fc7d516c74d
+      name: 400
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.20784315
+        g: 0.7176471
+        b: 0.95294124
+        a: 1
+    - id: 66
+      guid: b75c4399-ea08-443b-b83c-6f3daaea43cb
+      name: 500
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.11764707
+        g: 0.6666667
+        b: 0.9450981
+        a: 1
+    - id: 67
+      guid: a90de4d5-a1c4-49f0-ba3f-3aef536ce8ba
+      name: 600
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.10588236
+        g: 0.6117647
+        b: 0.8862746
+        a: 1
+    - id: 68
+      guid: 187dc439-7a62-448e-bf3c-17ebfee1dc12
+      name: 700
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.08627451
+        g: 0.5372549
+        b: 0.8078432
+        a: 1
+    - id: 69
+      guid: 5a3f23b7-c22b-49fb-867a-9a1b8cb2e482
+      name: 800
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.07450981
+        g: 0.47058827
+        b: 0.73333335
+        a: 1
+    - id: 70
+      guid: e1019afa-ffd4-43c1-a3f2-2ccdd70f7892
+      name: 900
+      paletteName: Light Blue
+      category: Google Colors
+      color:
+        r: 0.04705883
+        g: 0.34901962
+        b: 0.6
+        a: 1
+    name_: Light Blue
+    category_: Google Colors
+  - open: 0
+    id: 8
+    colors:
+    - id: 71
+      guid: fb26cb4f-0496-4dc0-8eac-ac856c62c516
+      name: 50
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.882353
+        g: 0.9686275
+        b: 0.9803922
+        a: 1
+    - id: 72
+      guid: 29d37cd6-f76e-4c4d-8a49-8c9219d73e2e
+      name: 100
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.7058824
+        g: 0.9215687
+        b: 0.9450981
+        a: 1
+    - id: 73
+      guid: 0f646147-a12d-482c-b884-50c046c4231d
+      name: 200
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.5176471
+        g: 0.8705883
+        b: 0.91372555
+        a: 1
+    - id: 74
+      guid: 51aaf1cf-90cd-4ffd-83ca-272092a98bd5
+      name: 300
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.32941177
+        g: 0.81568635
+        b: 0.87843144
+        a: 1
+    - id: 75
+      guid: d37215ae-62c3-48cd-af9a-a7e1cdf93132
+      name: 400
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.20392159
+        g: 0.77647066
+        b: 0.8470589
+        a: 1
+    - id: 76
+      guid: dec1bdff-d651-4dca-860b-032fd0058780
+      name: 500
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.121568635
+        g: 0.7372549
+        b: 0.8235295
+        a: 1
+    - id: 77
+      guid: ae5c71cf-4305-4aa2-a940-db8bf0a17dc7
+      name: 600
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.10588236
+        g: 0.6745098
+        b: 0.75294125
+        a: 1
+    - id: 78
+      guid: 3ad9a2e2-8c6f-4d5f-b52c-d707770e2117
+      name: 700
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.08627451
+        g: 0.5921569
+        b: 0.6509804
+        a: 1
+    - id: 79
+      guid: e66e32de-4f32-4cc7-8a6f-e81f2f44fc52
+      name: 800
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.07058824
+        g: 0.5137255
+        b: 0.5568628
+        a: 1
+    - id: 80
+      guid: 1fdad882-645b-4e8f-bde2-477a58fa539c
+      name: 900
+      paletteName: Cyan
+      category: Google Colors
+      color:
+        r: 0.039215688
+        g: 0.37647063
+        b: 0.38823533
+        a: 1
+    name_: Cyan
+    category_: Google Colors
+  - open: 0
+    id: 9
+    colors:
+    - id: 81
+      guid: 3e508430-4407-4195-a960-6bdc0789318e
+      name: 50
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.882353
+        g: 0.9490197
+        b: 0.9450981
+        a: 1
+    - id: 82
+      guid: 50ba047a-cb39-4b4f-9835-5fc286d98254
+      name: 100
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.7019608
+        g: 0.8745099
+        b: 0.8588236
+        a: 1
+    - id: 83
+      guid: a6b60179-6e77-4c21-b19f-c15f44417842
+      name: 200
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.5137255
+        g: 0.7960785
+        b: 0.7686275
+        a: 1
+    - id: 84
+      guid: 36af43b8-ea22-4612-89c2-beb8ff924e19
+      name: 300
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.32156864
+        g: 0.7137255
+        b: 0.6745098
+        a: 1
+    - id: 85
+      guid: 44db5d41-cf40-4d47-8c54-cb63164c8050
+      name: 400
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.18431373
+        g: 0.6509804
+        b: 0.6039216
+        a: 1
+    - id: 86
+      guid: 28f0d267-528a-40bf-aec2-14759de4ebcc
+      name: 500
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.08235294
+        g: 0.58431375
+        b: 0.53333336
+        a: 1
+    - id: 87
+      guid: d332aa43-783a-4a57-864c-169a712b84e2
+      name: 600
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.07450981
+        g: 0.5372549
+        b: 0.48235297
+        a: 1
+    - id: 88
+      guid: 448fd246-8787-4fed-ae82-ddca79584acc
+      name: 700
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.058823533
+        g: 0.47450984
+        b: 0.41960788
+        a: 1
+    - id: 89
+      guid: f2f4c380-a650-4574-b4fc-ac732a55c0bc
+      name: 800
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.04705883
+        g: 0.41176474
+        b: 0.36078432
+        a: 1
+    - id: 90
+      guid: e213b6be-7cf0-4ab9-9381-485ec7e573c6
+      name: 900
+      paletteName: Teal
+      category: Google Colors
+      color:
+        r: 0.023529414
+        g: 0.3019608
+        b: 0.2509804
+        a: 1
+    name_: Teal
+    category_: Google Colors
+  - open: 0
+    id: 10
+    colors:
+    - id: 91
+      guid: 9864283a-5b6a-4bfa-a17c-0011e80668ff
+      name: 50
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.909804
+        g: 0.9607844
+        b: 0.91372555
+        a: 1
+    - id: 92
+      guid: 1a511a82-8770-4e46-86eb-d6323fd94a7a
+      name: 100
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.78823537
+        g: 0.8980393
+        b: 0.79215693
+        a: 1
+    - id: 93
+      guid: ca6fbbe8-646e-4af6-92e2-a983d35eff6b
+      name: 200
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.6509804
+        g: 0.8352942
+        b: 0.6627451
+        a: 1
+    - id: 94
+      guid: 9660607c-94f3-4099-9361-648da83876e5
+      name: 300
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.5137255
+        g: 0.77647066
+        b: 0.5254902
+        a: 1
+    - id: 95
+      guid: 2983ab5f-4102-46ca-92f2-e0f3c63d4c7e
+      name: 400
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.41176474
+        g: 0.7294118
+        b: 0.427451
+        a: 1
+    - id: 96
+      guid: f0656aa2-65d3-430e-be31-66925e0a5617
+      name: 500
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.3137255
+        g: 0.68235296
+        b: 0.33333334
+        a: 1
+    - id: 97
+      guid: ef9b5f45-0a6d-432d-a2f7-b191c1f8099c
+      name: 600
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.2784314
+        g: 0.62352943
+        b: 0.29411766
+        a: 1
+    - id: 98
+      guid: 15a7159c-8a6d-456c-9842-2b7024ca9a8c
+      name: 700
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.23529413
+        g: 0.5529412
+        b: 0.2509804
+        a: 1
+    - id: 99
+      guid: 2ebf064d-1428-4296-9aac-80495c82da21
+      name: 800
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.19607845
+        g: 0.48627454
+        b: 0.21176472
+        a: 1
+    - id: 100
+      guid: a55d57ad-96c4-4305-af85-b7781959cc93
+      name: 900
+      paletteName: Green
+      category: Google Colors
+      color:
+        r: 0.11764707
+        g: 0.3647059
+        b: 0.13725491
+        a: 1
+    name_: Green
+    category_: Google Colors
+  - open: 0
+    id: 11
+    colors:
+    - id: 101
+      guid: 61b5944c-385e-4838-b737-283fa9ce2d06
+      name: 50
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.9450981
+        g: 0.9725491
+        b: 0.9176471
+        a: 1
+    - id: 102
+      guid: f10212bf-87f2-4813-b822-a51200211182
+      name: 100
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.86274517
+        g: 0.92549026
+        b: 0.78823537
+        a: 1
+    - id: 103
+      guid: eb428e66-6994-438b-849e-166ee5b20895
+      name: 200
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.77647066
+        g: 0.87843144
+        b: 0.654902
+        a: 1
+    - id: 104
+      guid: 3dbf22b2-582f-4d00-af19-8b835c8b0554
+      name: 300
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.6862745
+        g: 0.8313726
+        b: 0.52156866
+        a: 1
+    - id: 105
+      guid: 336df438-10a3-4934-9e68-d774d39b234e
+      name: 400
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.6156863
+        g: 0.7960785
+        b: 0.41960788
+        a: 1
+    - id: 106
+      guid: 5841a29f-f82d-42ec-b391-0d951445278b
+      name: 500
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.54901963
+        g: 0.7568628
+        b: 0.32156864
+        a: 1
+    - id: 107
+      guid: 02a92387-fe12-4d79-9673-af6938b187da
+      name: 600
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.4901961
+        g: 0.69803923
+        b: 0.28627452
+        a: 1
+    - id: 108
+      guid: 6fa254de-f119-44a9-af05-91c205a07528
+      name: 700
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.4156863
+        g: 0.61960787
+        b: 0.24705884
+        a: 1
+    - id: 109
+      guid: d2a5d397-a6c6-401b-be54-75bb39ef5dce
+      name: 800
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.34117648
+        g: 0.5411765
+        b: 0.20784315
+        a: 1
+    - id: 110
+      guid: 317495f1-ef13-455d-93ae-6c8f3abc767e
+      name: 900
+      paletteName: Light Green
+      category: Google Colors
+      color:
+        r: 0.20784315
+        g: 0.40784317
+        b: 0.13725491
+        a: 1
+    name_: Light Green
+    category_: Google Colors
+  - open: 0
+    id: 12
+    colors:
+    - id: 111
+      guid: 7b409fbb-0068-41a6-b4b4-b92a7723bb11
+      name: 50
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.97647065
+        g: 0.9843138
+        b: 0.909804
+        a: 1
+    - id: 112
+      guid: c97c745f-4bbf-4edc-b2e4-2c4cfc802caf
+      name: 100
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.94117653
+        g: 0.95294124
+        b: 0.7725491
+        a: 1
+    - id: 113
+      guid: 39c7ad41-e986-4086-8810-30211d59c7df
+      name: 200
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.90196085
+        g: 0.9294118
+        b: 0.627451
+        a: 1
+    - id: 114
+      guid: 508c08c0-f261-4a77-bbcd-0e1a73899ccc
+      name: 300
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.86274517
+        g: 0.90196085
+        b: 0.48627454
+        a: 1
+    - id: 115
+      guid: 2e60414a-cd52-424c-8e02-716db1c13e3f
+      name: 400
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.8313726
+        g: 0.8745099
+        b: 0.3803922
+        a: 1
+    - id: 116
+      guid: c55dac20-01df-4a16-b141-6baad2b7d79b
+      name: 500
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.80392164
+        g: 0.854902
+        b: 0.28627452
+        a: 1
+    - id: 117
+      guid: e80991f3-b0b8-4c28-9fb0-96c53413c0cf
+      name: 600
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.75294125
+        g: 0.7843138
+        b: 0.25882354
+        a: 1
+    - id: 118
+      guid: 99809a6e-09d5-417e-98a0-730fb1767a55
+      name: 700
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.6862745
+        g: 0.7019608
+        b: 0.22352943
+        a: 1
+    - id: 119
+      guid: d1c1b8ec-3e81-4203-ab04-f35c330c758a
+      name: 800
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.61960787
+        g: 0.6117647
+        b: 0.19215688
+        a: 1
+    - id: 120
+      guid: cc9b127e-0805-4655-9e70-c4b7bd91d83a
+      name: 900
+      paletteName: Lime
+      category: Google Colors
+      color:
+        r: 0.50980395
+        g: 0.46274513
+        b: 0.13333334
+        a: 1
+    name_: Lime
+    category_: Google Colors
+  - open: 0
+    id: 13
+    colors:
+    - id: 121
+      guid: d89ca433-be9d-4061-a00d-519967772614
+      name: 50
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.9921569
+        b: 0.909804
+        a: 1
+    - id: 122
+      guid: b91e5d87-6624-4119-a5ae-c5710625651a
+      name: 100
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.9725491
+        b: 0.7803922
+        a: 1
+    - id: 123
+      guid: 75a39a59-51a0-4fd9-9065-001a183a152c
+      name: 200
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.9568628
+        b: 0.63529414
+        a: 1
+    - id: 124
+      guid: 121850d7-fdab-47c8-91cc-c67608155e31
+      name: 300
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.94117653
+        b: 0.49411768
+        a: 1
+    - id: 125
+      guid: 657bbcc4-0c42-439a-807f-4063b1e1d5df
+      name: 400
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.92549026
+        b: 0.39607847
+        a: 1
+    - id: 126
+      guid: 0be67aed-dd1c-4a89-a10d-b2c1ad81694c
+      name: 500
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.91372555
+        b: 0.30588236
+        a: 1
+    - id: 127
+      guid: e3d70f6b-22a5-4cd4-8a8f-463f07061c6c
+      name: 600
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.98823535
+        g: 0.8431373
+        b: 0.28235295
+        a: 1
+    - id: 128
+      guid: e61a09e2-4021-42d0-abe9-baa84caea55e
+      name: 700
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.9803922
+        g: 0.7490196
+        b: 0.2509804
+        a: 1
+    - id: 129
+      guid: d66137c5-e9f3-4723-b624-98c45c134ecf
+      name: 800
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.9686275
+        g: 0.654902
+        b: 0.21960786
+        a: 1
+    - id: 130
+      guid: 03ca36c0-8771-46aa-8d7b-7777d1ce1e0a
+      name: 900
+      paletteName: Yellow
+      category: Google Colors
+      color:
+        r: 0.95294124
+        g: 0.49803925
+        b: 0.16862746
+        a: 1
+    name_: Yellow
+    category_: Google Colors
+  - open: 0
+    id: 14
+    colors:
+    - id: 131
+      guid: f23475fe-7957-45c3-8056-b1a40ff9fdbb
+      name: 50
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.9725491
+        b: 0.8862746
+        a: 1
+    - id: 132
+      guid: 15747fe1-541b-4c1c-beee-c15dfc59582b
+      name: 100
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.9215687
+        b: 0.7137255
+        a: 1
+    - id: 133
+      guid: e1adb474-92ee-407d-b655-749f38114d18
+      name: 200
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.8745099
+        b: 0.53333336
+        a: 1
+    - id: 134
+      guid: 03505e10-3b56-4d4f-aa26-007fc38e8b7f
+      name: 300
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.8313726
+        b: 0.35686275
+        a: 1
+    - id: 135
+      guid: 89b1d0f0-8a87-4a2c-8cda-fc432cd5cc9a
+      name: 400
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.78823537
+        b: 0.24313727
+        a: 1
+    - id: 136
+      guid: 88521a7c-7baf-4c7a-844f-2752cf94517f
+      name: 500
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.75294125
+        b: 0.18431373
+        a: 1
+    - id: 137
+      guid: 7c0d3d7e-f3b0-44ee-9d0b-6a4ba220f34d
+      name: 600
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.69803923
+        b: 0.16862746
+        a: 1
+    - id: 138
+      guid: f1f26338-0363-45f1-a0e8-cdb1d9f61e79
+      name: 700
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.62352943
+        b: 0.15686275
+        a: 1
+    - id: 139
+      guid: 91dbe847-0d4d-4980-8a60-10091e0a52d3
+      name: 800
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.56078434
+        b: 0.14509805
+        a: 1
+    - id: 140
+      guid: 1b2fc8d0-1d77-4eb4-ba3d-7a64e64e2695
+      name: 900
+      paletteName: Amber
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.43529415
+        b: 0.12941177
+        a: 1
+    name_: Amber
+    category_: Google Colors
+  - open: 0
+    id: 15
+    colors:
+    - id: 141
+      guid: 265d0b5b-d6d8-4061-b784-cd2d33e55d04
+      name: 50
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 1
+        g: 0.95294124
+        b: 0.882353
+        a: 1
+    - id: 142
+      guid: 60d8eb21-9e97-4c9c-a080-b00860eac0ae
+      name: 100
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.8745099
+        b: 0.70980394
+        a: 1
+    - id: 143
+      guid: d95cad0a-7e55-4a56-bebb-eaf4db1b834c
+      name: 200
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.7960785
+        b: 0.52156866
+        a: 1
+    - id: 144
+      guid: 27a61ecb-f1ce-4323-8521-d5ec32b0f2e3
+      name: 300
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.7137255
+        b: 0.34117648
+        a: 1
+    - id: 145
+      guid: 7fb71ccc-1901-4818-a144-df89742ba348
+      name: 400
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.6509804
+        b: 0.22352943
+        a: 1
+    - id: 146
+      guid: 2f4142cd-8679-483d-a612-30e12a09b969
+      name: 500
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.5921569
+        b: 0.15294118
+        a: 1
+    - id: 147
+      guid: 03e698c1-02e3-483f-b8d0-fd577c7572ba
+      name: 600
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.97647065
+        g: 0.54901963
+        b: 0.14117648
+        a: 1
+    - id: 148
+      guid: c8f8fdea-5405-46c7-af16-3f9fe3853e31
+      name: 700
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.95294124
+        g: 0.48627454
+        b: 0.13333334
+        a: 1
+    - id: 149
+      guid: 21d004d0-c8b4-4612-98da-86e0c857fcf5
+      name: 800
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.9294118
+        g: 0.42352945
+        b: 0.121568635
+        a: 1
+    - id: 150
+      guid: a47a7074-aa0c-4380-b636-0686da6946e7
+      name: 900
+      paletteName: Orange
+      category: Google Colors
+      color:
+        r: 0.8941177
+        g: 0.32156864
+        b: 0.10588236
+        a: 1
+    name_: Orange
+    category_: Google Colors
+  - open: 0
+    id: 16
+    colors:
+    - id: 151
+      guid: 9d2f5509-2380-47aa-923f-35e11b4017df
+      name: 50
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9843138
+        g: 0.91372555
+        b: 0.9058824
+        a: 1
+    - id: 152
+      guid: 5778776f-9bd7-43d9-8efa-bdac45d78ccf
+      name: 100
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9960785
+        g: 0.8000001
+        b: 0.7411765
+        a: 1
+    - id: 153
+      guid: b4a2497c-ae38-499d-8893-eadefcf1fada
+      name: 200
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.67058825
+        b: 0.5803922
+        a: 1
+    - id: 154
+      guid: 05bc1167-5148-4faa-b4a6-583fb1efeb8b
+      name: 300
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.5411765
+        b: 0.4156863
+        a: 1
+    - id: 155
+      guid: 66c31528-e9ec-46aa-89be-b75be636a458
+      name: 400
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9921569
+        g: 0.43921572
+        b: 0.29411766
+        a: 1
+    - id: 156
+      guid: 93ae1c60-dece-4686-9b8d-a7076c5ff641
+      name: 500
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.98823535
+        g: 0.34509805
+        b: 0.18823531
+        a: 1
+    - id: 157
+      guid: 5d484c43-1fa7-47fd-b8e1-314a2de76f72
+      name: 600
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.9450981
+        g: 0.32156864
+        b: 0.17254902
+        a: 1
+    - id: 158
+      guid: 67361861-6288-457a-80ad-6b2f4877893b
+      name: 700
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.8941177
+        g: 0.29411766
+        b: 0.15294118
+        a: 1
+    - id: 159
+      guid: ed9257f4-47ff-46c1-86a3-7234df60c065
+      name: 800
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.83921576
+        g: 0.26666668
+        b: 0.13725491
+        a: 1
+    - id: 160
+      guid: 7e01d28a-4398-4e55-9015-3d4e75d3f28e
+      name: 900
+      paletteName: Deep Orange
+      category: Google Colors
+      color:
+        r: 0.7411765
+        g: 0.21568629
+        b: 0.10196079
+        a: 1
+    name_: Deep Orange
+    category_: Google Colors
+  - open: 0
+    id: 17
+    colors:
+    - id: 161
+      guid: 00e6b0d6-fd5e-4194-8f4a-9c41ad18b706
+      name: 50
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.93725497
+        g: 0.9215687
+        b: 0.91372555
+        a: 1
+    - id: 162
+      guid: 0b504733-0bc2-4330-9731-a45ea9b43a97
+      name: 100
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.8431373
+        g: 0.8000001
+        b: 0.7843138
+        a: 1
+    - id: 163
+      guid: 6794b17f-5fcc-458a-b230-90af636e41f6
+      name: 200
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.7372549
+        g: 0.6666667
+        b: 0.6431373
+        a: 1
+    - id: 164
+      guid: 2cd241d8-b83e-4766-8fb2-17d9156a117d
+      name: 300
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.627451
+        g: 0.53333336
+        b: 0.5019608
+        a: 1
+    - id: 165
+      guid: 4c01bd6e-2937-48a2-a560-28ad1d1a5f2a
+      name: 400
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.54901963
+        g: 0.43137258
+        b: 0.3921569
+        a: 1
+    - id: 166
+      guid: b9365e66-40cd-45e5-b36d-cd77e9538608
+      name: 500
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.47058824
+        g: 0.33333334
+        b: 0.28627452
+        a: 1
+    - id: 167
+      guid: 95a4279b-9299-4ebb-9fcb-e8a84343f694
+      name: 600
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.42352945
+        g: 0.29803923
+        b: 0.25882354
+        a: 1
+    - id: 168
+      guid: 71b535ed-8ee6-4eaa-85dd-40f843403f23
+      name: 700
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.36078432
+        g: 0.2509804
+        b: 0.21960786
+        a: 1
+    - id: 169
+      guid: a860126a-9aec-483a-b405-d1e077958b81
+      name: 800
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.3019608
+        g: 0.20392159
+        b: 0.18431373
+        a: 1
+    - id: 170
+      guid: 17ac88bb-0bb9-4e1d-8595-a2ffdc58c5d5
+      name: 900
+      paletteName: Brown
+      category: Google Colors
+      color:
+        r: 0.24313727
+        g: 0.15294118
+        b: 0.14117648
+        a: 1
+    name_: Brown
+    category_: Google Colors
+  - open: 0
+    id: 18
+    colors:
+    - id: 171
+      guid: 90783ef8-d2f4-44f3-b52f-805aa6ca2689
+      name: 50
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.9803922
+        g: 0.9803922
+        b: 0.9803922
+        a: 1
+    - id: 172
+      guid: 9e5167c3-36a7-45e2-88e5-d84a91d42297
+      name: 100
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.9607844
+        g: 0.9607844
+        b: 0.9607844
+        a: 1
+    - id: 173
+      guid: 5e2f6074-4c11-47df-a9af-4f97edac2a4c
+      name: 200
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.9333334
+        g: 0.9333334
+        b: 0.9333334
+        a: 1
+    - id: 174
+      guid: 21e234bd-b539-4b6f-9e63-2dbb15e97bdf
+      name: 300
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.87843144
+        g: 0.87843144
+        b: 0.87843144
+        a: 1
+    - id: 175
+      guid: e76dec72-a35e-470e-9dc0-58f27f97c3f9
+      name: 400
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.7411765
+        g: 0.7411765
+        b: 0.7411765
+        a: 1
+    - id: 176
+      guid: ddd38bb9-c1bd-4dba-9901-394a6f542e55
+      name: 500
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.61960787
+        g: 0.61960787
+        b: 0.61960787
+        a: 1
+    - id: 177
+      guid: b62a6412-c19f-4437-8f0a-5aabbe6475ae
+      name: 600
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.45882356
+        g: 0.45882356
+        b: 0.45882356
+        a: 1
+    - id: 178
+      guid: 81041440-77b9-4b87-b1d7-2bb9e1e1aaa3
+      name: 700
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.3803922
+        g: 0.3803922
+        b: 0.3803922
+        a: 1
+    - id: 179
+      guid: 57113bdd-ffca-43e7-a46d-77587eb3afae
+      name: 800
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.25882354
+        g: 0.25882354
+        b: 0.25882354
+        a: 1
+    - id: 180
+      guid: 49a11244-d0e6-44b7-b852-af0d0f196a7a
+      name: 900
+      paletteName: Grey
+      category: Google Colors
+      color:
+        r: 0.12941177
+        g: 0.12941177
+        b: 0.12941177
+        a: 1
+    name_: Grey
+    category_: Google Colors
+  - open: 0
+    id: 19
+    colors:
+    - id: 181
+      guid: b4df8ee9-a6b7-41c1-a0d9-5d7f33b2723f
+      name: 50
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.92549026
+        g: 0.93725497
+        b: 0.9450981
+        a: 1
+    - id: 182
+      guid: 9170041d-b2a8-48ea-8caf-f7cbc1fdcb37
+      name: 100
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.8117648
+        g: 0.8470589
+        b: 0.86274517
+        a: 1
+    - id: 183
+      guid: fefb48cb-2477-4ea0-a5f0-bb8393908a33
+      name: 200
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.6901961
+        g: 0.74509805
+        b: 0.7725491
+        a: 1
+    - id: 184
+      guid: 387555d5-832a-47d7-80f7-befbd1191591
+      name: 300
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.5686275
+        g: 0.6431373
+        b: 0.6784314
+        a: 1
+    - id: 185
+      guid: a515e187-e47b-4c35-819e-063c8bfb131d
+      name: 400
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.47450984
+        g: 0.5647059
+        b: 0.60784316
+        a: 1
+    - id: 186
+      guid: 6693ef60-3a41-42a8-a4e3-e7eb12523ffd
+      name: 500
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.3803922
+        g: 0.4901961
+        b: 0.5411765
+        a: 1
+    - id: 187
+      guid: e8f37be0-ab93-4082-a94a-26cc8ba29924
+      name: 600
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.33333334
+        g: 0.43137258
+        b: 0.47450984
+        a: 1
+    - id: 188
+      guid: 97fd4e7e-b219-47b5-a688-93a575e7a47a
+      name: 700
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.27450982
+        g: 0.3529412
+        b: 0.38823533
+        a: 1
+    - id: 189
+      guid: 4b2274ff-9a28-4f96-b8f1-5aa97d61b3eb
+      name: 800
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.21960786
+        g: 0.2784314
+        b: 0.30980393
+        a: 1
+    - id: 190
+      guid: c718b60f-7120-40ce-bfc2-eac648a1bdb1
+      name: 900
+      paletteName: Blue Grey
+      category: Google Colors
+      color:
+        r: 0.14901961
+        g: 0.19607845
+        b: 0.21960786
+        a: 1
+    name_: Blue Grey
+    category_: Google Colors
+  - open: 0
+    id: 20
+    colors:
+    - id: 191
+      guid: a4ef5401-3c27-4d05-91e0-c1e9ca1706aa
+      name: Black
+      paletteName: Black and White
+      category: Google Colors
+      color:
+        r: 0
+        g: 0
+        b: 0
+        a: 1
+    - id: 192
+      guid: 050766cf-74f7-4901-9d67-23d7cf641799
+      name: White
+      paletteName: Black and White
+      category: Google Colors
+      color:
+        r: 1
+        g: 1
+        b: 1
+        a: 1
+    name_: Black and White
+    category_: Google Colors
+  paletteID: 20
+  colorID: 192
