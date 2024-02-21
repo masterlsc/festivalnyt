@@ -1,0 +1,17 @@
+{
+    "name": "Schedule",
+    "references": [
+        "GUID:a47d0acdb95bf3446b7192b2ba8b8fe1",
+        "GUID:902f31ea0c7f2764aab0fc13378ff118",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

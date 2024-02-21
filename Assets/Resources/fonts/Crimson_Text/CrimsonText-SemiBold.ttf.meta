@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f5a9d78121739ec409e7d393f060a2c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Crimson Text
+  fontNames:
+  - Crimson Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a9f12411b93187640b7ad469de2ce6eb, type: 3}
+  - {fileID: 12800000, guid: f54ab8225e73f6946a7b18a11d3ce921, type: 3}
+  - {fileID: 12800000, guid: cae5bcf29d70a684198face6187f9870, type: 3}
+  - {fileID: 12800000, guid: daea7af61a4dcd24eb6ce4c37f194f59, type: 3}
+  - {fileID: 12800000, guid: 47030bdb7668155488368aef419be362, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
