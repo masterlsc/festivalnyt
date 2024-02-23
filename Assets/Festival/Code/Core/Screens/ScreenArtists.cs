@@ -6,7 +6,7 @@ public class ScreenArtists : ScreensMain
 {
     private void Awake()
     {
-        this.EnumId = Id.ScreensArtists;
+        this.EnumId = Id.Liste;
 
     }
 }

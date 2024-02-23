@@ -13,10 +13,10 @@ public class ScreensMain : MonoBehaviour
     {
         NotSet,
         ScreensSplash,
-        ScreensHome,
-        ScreensEvents,
-        ScreensArtists,
+        //ScreensHome,
+        Bobler,
+        Liste,
         ScreensMap,
-        ScreensSettings,
+        Filter,
     }
 }

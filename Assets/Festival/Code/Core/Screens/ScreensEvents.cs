@@ -6,7 +6,7 @@ public class ScreensEvents : ScreensMain
 {
     private void Awake()
     {
-        this.EnumId = Id.ScreensEvents;
+        this.EnumId = Id.Bobler;
 
     }
 }

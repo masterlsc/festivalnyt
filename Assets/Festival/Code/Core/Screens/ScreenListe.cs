@@ -2,11 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ScreensHome : ScreensMain
+public class ScreenListe : ScreensMain
 {
     private void Awake()
     {
-        this.EnumId = Id.ScreensHome;
+        this.EnumId = Id.Liste;
 
     }
 }

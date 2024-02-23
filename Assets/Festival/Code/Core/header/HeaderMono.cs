@@ -49,7 +49,7 @@ public class HeaderMono : MonoBehaviour
         headerScript.SetTitle(dataShow.MenuText);
 
         headerScript.ShowBackButton(dataShow.ShowBackButton);
-        headerScript.ShowDrawerButton(dataShow.IsHome);
+       // headerScript.ShowDrawerButton(dataShow.IsHome);
     }
 
 }

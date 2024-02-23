@@ -24,6 +24,8 @@ public class ScreenData
     public string MenuText = "Home";
     public string MenuIconPath = "icon8/icon_home";
 
+    public bool IsPopUp = false;
+
     public ScreenData(ScreensMain.Id id)
     {
         Id = id;

@@ -34,13 +34,8 @@ public class AppRootMono : MonoBehaviour
     {
         yield return new WaitForSeconds(1f);
 
-        //For testing
+        //TODO: remove
         SaveGame.Clear();
-        //ScreensLoginDataManager.GetInstance().ScreensLoginData.Login = ScreensLoginData.Logins.account;
-        //ScreensLoginDataManager.GetInstance().ScreensLoginData.Email = "larsscarlsen@gmail.com";
-        //ScreensLoginDataManager.GetInstance().ScreensLoginData.Password = "123456";
-
-
         ScreenDataManager.GetInstance().RegisterScreens(GetComponentsInChildren<ScreensMain>(true).ToList());
 
         GetComponent<HeaderMono>().AddHeaderOutside();
@@ -50,15 +45,11 @@ public class AppRootMono : MonoBehaviour
         GetComponent<MenuVerticalMono>().AddMenu();
         GetComponent<MenuVerticalMono>().MenuVerticalPrefabScript.ActionMenuClicked = EnableScreen;
 
-        GetComponent<MenuDrawerMono>().AddDrawerMenu();
-        GetComponent<MenuDrawerMono>().MenuDrawerPrefabScript.ActionMenuClicked = DraweMenuClicked;
-        MenuDrawerPrefab.ActionHideDrawer = DrawerHide;
+        //GetComponent<MenuDrawerMono>().AddDrawerMenu();
+        //GetComponent<MenuDrawerMono>().MenuDrawerPrefabScript.ActionMenuClicked = DraweMenuClicked;
+        //MenuDrawerPrefab.ActionHideDrawer = DrawerHide;
 
-        //StartCoroutine(LoginStart());
-
-        //StartCoroutine(Testgetuser());
-
-        EnableScreen(ScreensMain.Id.ScreensHome);
+        EnableScreen(ScreensMain.Id.Bobler);
     }
 
     public AppUtilMono GetMonoUtil()

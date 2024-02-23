@@ -80,25 +80,21 @@ public class ScreenDataManager
         {
             screen = new ScreenData(id);
         }
-        else if (id == ScreensMain.Id.ScreensHome)
+        else if (id == ScreensMain.Id.Bobler)
         {
-            screen = new ScreenData("Home", "icon8/icon_home") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false, IsHome = true };
+            screen = new ScreenData("Bobler", "icon8/icon_calendar") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false, IsHome = true };
         }
-        else if (id == ScreensMain.Id.ScreensEvents)
+        else if (id == ScreensMain.Id.Liste)
         {
-            screen = new ScreenData("Events", "icon8/icon_calendar") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false };
-        }
-        else if (id == ScreensMain.Id.ScreensArtists)
-        {
-            screen = new ScreenData("Artists", "icon8/icon_artists") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = false, AddToMenuDrawer = false, ShowBackButton = false };
+            screen = new ScreenData("Liste", "icon8/icon_liste") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false };
         }
         else if (id == ScreensMain.Id.ScreensMap)
         {
-            screen = new ScreenData("Map", "icon8/icons8-alarm1") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false };
+            screen = new ScreenData("Kort", "icon8/icons8-alarm1") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false };
         }
-        else if (id == ScreensMain.Id.ScreensSettings)
+        else if (id == ScreensMain.Id.Filter)
         {
-            screen = new ScreenData("Settings", "icon8/icon_settings") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false };
+            screen = new ScreenData("Filter", "icon8/icons8-filter") { IncludeHeader = true, IncludeMenuBottom = true, IncludeMenuDrawer = true, AddToMenuBottom = true, AddToMenuDrawer = true, ShowBackButton = false, IsPopUp = true };
         }
 
         return screen;
